@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Amuzzin_iOS/AZDownloadManager.swift"
+            timestampString = "459485554.775449"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "202"
+            endingLineNumber = "202"
+            landmarkName = "URLSession(_:downloadTask:didWriteData:totalBytesWritten:totalBytesExpectedToWrite:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Amuzzin_iOS/AZDownloadManager.swift"
+            timestampString = "459496625.439568"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "302"
+            endingLineNumber = "302"
+            landmarkName = "URLSession(_:task:didCompleteWithError:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Amuzzin_iOS/AZDownloadManager.swift"
+            timestampString = "459489485.604556"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "URLSession(_:downloadTask:didWriteData:totalBytesWritten:totalBytesExpectedToWrite:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Amuzzin_iOS.AZDownloadManager.URLSession (Amuzzin_iOS.AZDownloadManager)(ObjectiveC.NSURLSession, downloadTask : ObjectiveC.NSURLSessionDownloadTask, didWriteData : Swift.Int64, totalBytesWritten : Swift.Int64, totalBytesExpectedToWrite : Swift.Int64) -&gt; ()"
+                  moduleName = "Amuzzin_iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Neo/amuzzin_ios/Amuzzin_iOS/AZDownloadManager.swift"
+                  timestampString = "459489727.838976"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Amuzzin_iOS.AZDownloadManager.(URLSession (Amuzzin_iOS.AZDownloadManager) -&gt; (ObjectiveC.NSURLSession, downloadTask : ObjectiveC.NSURLSessionDownloadTask, didWriteData : Swift.Int64, totalBytesWritten : Swift.Int64, totalBytesExpectedToWrite : Swift.Int64) -&gt; ()).(closure #1)"
+                  moduleName = "Amuzzin_iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Neo/amuzzin_ios/Amuzzin_iOS/AZDownloadManager.swift"
+                  timestampString = "459489727.839217"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Amuzzin_iOS/AZDownloadManager.swift"
+            timestampString = "459497850.805229"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "220"
+            endingLineNumber = "220"
+            landmarkName = "URLSession(_:downloadTask:didFinishDownloadingToURL:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Amuzzin_iOS.AZDownloadManager.URLSession (Amuzzin_iOS.AZDownloadManager)(ObjectiveC.NSURLSession, downloadTask : ObjectiveC.NSURLSessionDownloadTask, didFinishDownloadingToURL : ObjectiveC.NSURL) -&gt; ()"
+                  moduleName = "Amuzzin_iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Neo/amuzzin_ios/Amuzzin_iOS/AZDownloadManager.swift"
+                  timestampString = "459497851.167981"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "220"
+                  endingLineNumber = "220"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Amuzzin_iOS.AZDownloadManager.(URLSession (Amuzzin_iOS.AZDownloadManager) -&gt; (ObjectiveC.NSURLSession, downloadTask : ObjectiveC.NSURLSessionDownloadTask, didFinishDownloadingToURL : ObjectiveC.NSURL) -&gt; ()).(closure #1)"
+                  moduleName = "Amuzzin_iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Neo/amuzzin_ios/Amuzzin_iOS/AZDownloadManager.swift"
+                  timestampString = "459497851.168229"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "220"
+                  endingLineNumber = "220"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Amuzzin_iOS/AZDownloadManager.swift"
+            timestampString = "459498154.863546"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "234"
+            endingLineNumber = "234"
+            landmarkName = "URLSession(_:downloadTask:didFinishDownloadingToURL:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Amuzzin_iOS/AZDownloadingViewController.swift"
+            timestampString = "459499637.33137"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "valueChanged(_:speed:downloaded:remainingTime:selectedRow:progress:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Amuzzin_iOS/AZDownloadingViewController.swift"
+            timestampString = "459499637.33137"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "tableView(_:cellForRowAtIndexPath:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
