@@ -1,6 +1,5 @@
 //
-//  File.swift
-//  Amuzzin_iOS
+//  StringtoLong-Convertor.swift
 //
 //  Created by elan on 5/12/16.
 //  Copyright © 2016 Chezhian Arulraj. All rights reserved.
