@@ -159,13 +159,6 @@
 		B552C1651B28678E0004F975 /* AZCommonTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AZCommonTableViewCell.swift; sourceTree = "<group>"; };
 		B552C1691B288C890004F975 /* AZCurrentQueueVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AZCurrentQueueVC.swift; sourceTree = "<group>"; };
 		B552C16B1B29F8EB0004F975 /* AZCommonNavController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AZCommonNavController.swift; sourceTree = "<group>"; };
-		B552C16E1B2BD8050004F975 /* (01) Maroon 5 Maps.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "(01) Maroon 5 Maps.mp3"; path = "Songs/(01) Maroon 5 Maps.mp3"; sourceTree = "<group>"; };
-		B552C16F1B2BD8050004F975 /* (10) Maroon 5 Feelings.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "(10) Maroon 5 Feelings.mp3"; path = "Songs/(10) Maroon 5 Feelings.mp3"; sourceTree = "<group>"; };
-		B552C1701B2BD8050004F975 /* 01 Kaara Aattakkaara.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "01 Kaara Aattakkaara.mp3"; path = "Songs/01 Kaara Aattakkaara.mp3"; sourceTree = "<group>"; };
-		B552C1711B2BD8050004F975 /* 01 Maari Thara Local (Here Comes Maari).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "01 Maari Thara Local (Here Comes Maari).mp3"; path = "Songs/01 Maari Thara Local (Here Comes Maari).mp3"; sourceTree = "<group>"; };
-		B552C1721B2BD8050004F975 /* 03 Donu Donu Donu (The Dons Romance).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "03 Donu Donu Donu (The Dons Romance).mp3"; path = "Songs/03 Donu Donu Donu (The Dons Romance).mp3"; sourceTree = "<group>"; };
-		B552C1731B2BD8050004F975 /* 04 Mental Manadhil.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "04 Mental Manadhil.mp3"; path = "Songs/04 Mental Manadhil.mp3"; sourceTree = "<group>"; };
-		B552C1741B2BD8050004F975 /* 04 Selfie Pulla.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "04 Selfie Pulla.mp3"; path = "Songs/04 Selfie Pulla.mp3"; sourceTree = "<group>"; };
 		B552C17C1B2D31170004F975 /* Reorder.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Reorder.png; path = Assets/Reorder.png; sourceTree = "<group>"; };
 		B552C17D1B2D31170004F975 /* Reorder@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Reorder@2x.png"; path = "Assets/Reorder@2x.png"; sourceTree = "<group>"; };
 		B56270581B387ED700027487 /* shuffleplaylist.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = shuffleplaylist.png; path = Assets/shuffleplaylist.png; sourceTree = "<group>"; };
@@ -402,13 +395,6 @@
 		B552C16D1B2BD7ED0004F975 /* Temp Songs */ = {
 			isa = PBXGroup;
 			children = (
-				B552C16E1B2BD8050004F975 /* (01) Maroon 5 Maps.mp3 */,
-				B552C16F1B2BD8050004F975 /* (10) Maroon 5 Feelings.mp3 */,
-				B552C1701B2BD8050004F975 /* 01 Kaara Aattakkaara.mp3 */,
-				B552C1711B2BD8050004F975 /* 01 Maari Thara Local (Here Comes Maari).mp3 */,
-				B552C1721B2BD8050004F975 /* 03 Donu Donu Donu (The Dons Romance).mp3 */,
-				B552C1731B2BD8050004F975 /* 04 Mental Manadhil.mp3 */,
-				B552C1741B2BD8050004F975 /* 04 Selfie Pulla.mp3 */,
 			);
 			name = "Temp Songs";
 			sourceTree = "<group>";
